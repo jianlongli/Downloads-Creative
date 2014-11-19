@@ -1,0 +1,27 @@
+body{background:#f2f2f2}
+.dn{display:none;}
+.pic_full{height:350px; background:#d9534f; display:none;}
+.full_bg{ background:url(../image/full_gb.png) no-repeat; width:100%; height:350px;}
+.navbar-brand{ background:url(../image/logo.png) no-repeat scroll 0 center rgba(0, 0, 0, 0); width:127px; height:47px;};
+/*main page*/
+.download-comm{height:25px; width:100%;margin-top:20px;}
+.download-a3233{ background:url(../image/machine_a3233.gif) no-repeat 15px;height:35px; margin-top:20px;}
+.download-a3255{ background:url(../image/machine_a3255.gif) no-repeat 15px;height:35px;}
+.download-a3256{ background:url(../image/machine_a3256.gif) no-repeat 15px;height:35px;}
+.main{ background:url(../image/bg.png);background-size:100% 100%;}
+.machine-div{height:50px; line-height:50px;font-size:24px;padding-left:15px;color:#292929; font-weight:bolder; }
+.navbar{ border-radius:0px;}
+.list-group-item:first-child{border-top-left-radius:0px;border-top-right-radius:0px;}
+.list-group-item:last-child{border-bottom-right-radius:0px;border-bottom-left-radius:0px;}
+.list-group-item.active, .list-group-item.active:hover, .list-group-item.active:focus{border-color:#555;}
+
+.items-a,.items-a:hover{color:#555;}
+
+#down-bg{ background:#292929;}
+/*footer */
+.footer{background:#2f2f2f;border-top:1px solid #e6e6e6;height:100px;}
+
+/*common*/
+.Fl{ float:left}
+.Fr{ float:right}
+.Clearb{ clear:both}
